@@ -1,0 +1,10 @@
+name "appkit-d"
+description "A binding to Apple's AppKit API"
+authors "Kitsunebi Games"
+copyright "Copyright © 2024, Kitsunebi Games"
+license "BSD-2-Clause"
+
+targetPath "out/"
+
+dependency "objective-d" version="~>1.0.5"
+dependency "coregraphics-d" version=">=0.5"
